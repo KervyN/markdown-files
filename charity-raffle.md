@@ -12,7 +12,7 @@ Mothership ist ein Horror RPG. Wenn Ihr Probleme mit den folgenden Themen habt, 
 - Unter Wasser
 
 ## Muss ich die Regeln kennen?
-Nein. Ich erklaere die wenigen Regeln, die es gibt bei der Erstellung der Charaktere und werde euch waehrend des Spiels jederzeit unterstuetzen.
+Nein. Ich erklaere die wenigen Regeln, die es gibt, bei der Erstellung der Charaktere und werde euch waehrend des Spiels jederzeit unterstuetzen.
 
 ## Wie kann ich teilnehmen?
 
@@ -43,7 +43,7 @@ Was Ihr haben solltet:
 
 ## Zeitplan des Abends
 
-In der ersten Stunde erstellen wir die Charaktere, und besprechen die Safety Tools. Gerade der letzte Punkt ist mir sehr wichtig.
+In der ersten Stunde erstellen wir die Charaktere und besprechen die Safety Tools. Gerade der letzte Punkt ist mir sehr wichtig.
 
 Dann machen wir 5-10 Minuten Pause, damit jeder noch einmal die Moeglichkeit hat, sich was zu trinken zu holen und sich Kompfortabel einzurichten.
 
