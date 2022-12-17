@@ -51,6 +51,10 @@ Dann machen wir 5-10 Minuten Pause, damit jeder noch einmal die Moeglichkeit hat
 
 Klar. Schick mir einfach eine Nachricht :) 
 
+- Mail: `bb@kervyn.de` 
+- [Twitter](https://twitter.com/k3rvyn)
+- [Mastodon](https://ondrugs.org/@KervyN)
+
 ## Weitere Links:
 - [Mothership RPG](https://www.mothershiprpg.com/)
 - [Ausfuellbarer Charaktersheet](https://drive.google.com/file/d/1xSi1UvmI-HzfHdTcTtPBXYwaK8Ok2GHO/view)
