@@ -45,8 +45,8 @@ Diese Runde ist ganz explizit:
 
 - Kein Rassismus
 - Keine Gewalt gegenueber Kindern
-- Kein toeten von wehrlosen Tieren
-- Keine Vergewaltigung
+- Keine Gewalt gegen wehrlose Tieren
+- Keine sexualle Gewalt
 
 ### Safety Tools 
 
