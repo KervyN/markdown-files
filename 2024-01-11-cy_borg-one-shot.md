@@ -53,7 +53,7 @@ Diese Runde ist ganz explizit:
 - "Kurze Pause" (aka verbale X-Karte). Jeder kann jederzeit eine kurze Pause ausrufen. Wir unterbrechen sofort den Spielfluss und schaffen das aktuelle Problem aus dem Weg. Egal was. No questions asked! [Mehr dazu hier](http://tinyurl.com/x-card-rpg).
 - Ihr koennt mir eine Liste mit Lines/Veils schicken.
 
-## Nutzliche Links
+## Nuetzliche Links
 
 - unterschiedliche Character Sheets:
   - https://www.reddit.com/r/Cy_Borg/comments/12ivo9c/character_sheet_v3/
